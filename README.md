@@ -4,14 +4,14 @@ This React-based web application allows users to set a countdown timer and watch
 
 ## Table of Contents
 
-- [Overview]
-- [Features]
-- [Installation]
-- [Usage]
-- [Project Structure]
-- [Dependencies]
-- [Contributing]
-- [License]
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Dependencies](#dependencies)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Overview
 
@@ -30,23 +30,31 @@ Follow these steps to set up and run the Countdown Timer App:
 
 1. Clone the repository:
 
+    ```bash
     git clone https://github.com/Faiz-Ahmad-Khan/countdown-timer.git
+    ```
 
 2. Navigate to the project directory:
 
+    ```bash
     cd countdown-timer
+    ```
 
 3. Install dependencies:
 
+    ```bash
     npm install
+    ```
 
 ## Usage
 
 1. Start the application:
 
+    ```bash
     npm start
+    ```
 
-2. Open your browser and go to [http://localhost:3000] to view the Countdown Timer App.
+2. Open your browser and go to [http://localhost:3000](http://localhost:3000) to view the Countdown Timer App.
 
 3. Enter the desired number of minutes in the input box.
 
@@ -79,4 +87,4 @@ Contributions are welcome! If you would like to contribute to the project, feel 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE] file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
